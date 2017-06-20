@@ -12,7 +12,7 @@ using HtmlAgilityPack;
 using ScrapySharp.Extensions;
 using ScrapySharp.Network;
 
-namespace WebScrapper
+namespace WebScraper
 {
     public static class StringExtensions
     {
